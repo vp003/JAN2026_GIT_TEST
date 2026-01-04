@@ -1,4 +1,8 @@
 abc
 line two
+<<<<<<< HEAD
 
 four
+=======
+three
+>>>>>>> c3967d704dbefcdfcd3260f6d9fd2dbe3b7f78f5
